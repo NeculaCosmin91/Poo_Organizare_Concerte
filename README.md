@@ -10,3 +10,4 @@ I. Meniu
 
 ![image](https://user-images.githubusercontent.com/75160001/188283851-a0f1e108-2a57-408b-8aa9-633268d3d474.png)
 
+In interfata Meniu utilizatorul are la dispozitie 7 optiuni, fiecare cu utilitatea sa. 
